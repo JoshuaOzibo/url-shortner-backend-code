@@ -1,0 +1,5 @@
+node_modules
+ServiceAccount
+.env
+# Local Netlify folder
+.netlify
